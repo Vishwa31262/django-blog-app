@@ -17,3 +17,15 @@ A simple blog application built with Django.
 git clone https://github.com/Vishwa31262/django-blog-app.git
 cd django-blog-app
 python manage.py runserver
+
+## 📸 Screenshots
+
+### 📝 Create Post Page
+![Create Post](https://github.com/Vishwa31262/django-blog-app/blob/main/media/blog1.png
+)
+
+### 📋 All Blog Posts
+![All Blog Posts](https://github.com/Vishwa31262/django-blog-app/blob/main/media/blog2.png)
+
+### 📄 Post Detail View
+![Post Detail](https://github.com/Vishwa31262/django-blog-app/blob/main/media/blog3.png)
